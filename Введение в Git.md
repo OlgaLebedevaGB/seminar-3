@@ -102,5 +102,5 @@
 [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet/)
 
 [Язык разметки Markdown: шпаргалка по синтаксису с примерами](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
-Добавлена новая строчка
+)))))))))))))))))))))))))))))))))))))))
 
